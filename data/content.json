@@ -1,136 +1,127 @@
 {
   "businessName": "A & R Auto Repair",
-  "tagline": "Burbank's Most Trusted Auto Repair Shop",
+  "tagline": "Burbank's Trusted Auto Repair Experts Since Day One",
   "hero": {
-    "heading": "Your Car Deserves the Best",
-    "subheading": "Family-owned auto repair in Burbank with a perfect 5-star rating. Honest service, expert technicians, fair prices — every time.",
-    "ctaText": "Schedule Service",
+    "heading": "Expert Auto Repair You Can Trust",
+    "subheading": "From brake jobs to full engine diagnostics, A & R Auto Repair keeps Burbank on the road with honest service, fair prices, and master-level craftsmanship.",
+    "ctaText": "Call Now",
     "ctaLink": "tel:8188488335",
     "imageSrc": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerE58yNcARgIHzzb4It5NLAnMBsKGr97WQyh08HF14vGnFx-PlrPyIzIBG_Ok1ru74LiQUnAmbGDEPFuciKrVucGE76cMnB915IbtESbUXvFgmRE8d7cXtQ3_NyBhk5Wfv3JeuKAw=w408-h306-k-no"
   },
   "about": {
-    "heading": "Honest Auto Repair You Can Count On",
+    "heading": "Why Burbank Trusts A & R",
+    "title": "Why Burbank Trusts A & R",
     "paragraphs": [
-      "A & R Auto Repair has been a cornerstone of the Burbank automotive community for over two decades. Our ASE-certified technicians combine old-school expertise with modern diagnostic technology to deliver repairs that are done right the first time.",
-      "We believe in transparent pricing with no hidden fees, clear explanations before any work begins, and treating every vehicle like our own. That philosophy has earned us a perfect 5.0 rating across 61 Google reviews — and the trust of families throughout Burbank and the surrounding area."
+      "A & R Auto Repair has built its reputation one customer at a time. Located on South Glenoaks Boulevard, we specialize in brake repair, engine diagnostics, transmission service, and everything in between.",
+      "Our ASE-trained technicians treat every vehicle like their own — no shortcuts, no surprises. We believe in transparent pricing, clear communication, and getting it right the first time.",
+      "Whether you drive a daily commuter or a weekend cruiser, we have the tools and expertise to keep you moving."
+    ],
+    "description": "A & R Auto Repair has built its reputation one customer at a time. Located on South Glenoaks Boulevard, we specialize in brake repair, engine diagnostics, transmission service, and everything in between. Our ASE-trained technicians treat every vehicle like their own — no shortcuts, no surprises. We believe in transparent pricing, clear communication, and getting it right the first time. Whether you drive a daily commuter or a weekend cruiser, we have the tools and expertise to keep you moving.",
+    "highlights": [
+      "ASE-Certified Technicians",
+      "Transparent Pricing",
+      "Same-Day Service Available",
+      "All Makes & Models"
     ]
   },
   "services": [
     {
       "title": "Brake Repair & Replacement",
-      "description": "Complete brake system service including pads, rotors, calipers, and brake fluid flush. We inspect every component to keep you safe on the road.",
+      "description": "Pads, rotors, calipers, and complete brake system overhauls to keep you stopping safely.",
       "price": "From $149"
     },
     {
       "title": "Engine Diagnostics",
-      "description": "State-of-the-art computer diagnostics to identify check engine lights, misfires, and performance issues. Accurate diagnosis means no wasted money.",
+      "description": "State-of-the-art OBD-II scanning and hands-on troubleshooting to pinpoint any issue.",
       "price": "From $89"
     },
     {
-      "title": "Oil Change & Lube",
-      "description": "Conventional, synthetic blend, and full synthetic oil changes with a complimentary multi-point inspection on every visit.",
+      "title": "Oil Change & Fluid Service",
+      "description": "Conventional and synthetic oil changes plus coolant, transmission, and brake fluid flushes.",
       "price": "From $39"
     },
     {
       "title": "Transmission Service",
-      "description": "Fluid exchanges, filter replacements, and complete transmission overhauls. We handle both automatic and manual transmissions.",
-      "price": "Call for Quote"
-    },
-    {
-      "title": "AC & Heating",
-      "description": "Full climate control service from refrigerant recharges to compressor replacement. Stay comfortable year-round in Burbank's heat.",
-      "price": "From $99"
+      "description": "Fluid changes, filter replacement, and complete transmission rebuilds for smooth shifting.",
+      "price": "From $199"
     },
     {
       "title": "Suspension & Steering",
-      "description": "Struts, shocks, ball joints, tie rods, and wheel alignments. If your ride is rough or your steering wanders, we'll fix it.",
-      "price": "Call for Quote"
+      "description": "Shocks, struts, tie rods, and alignment to restore your ride quality and handling.",
+      "price": "From $129"
+    },
+    {
+      "title": "A/C & Heating Repair",
+      "description": "Refrigerant recharge, compressor replacement, and heater core service for year-round comfort.",
+      "price": "From $99"
     }
   ],
   "reviews": [
     {
-      "name": "Michael T.",
-      "text": "Hands down the best auto shop in Burbank. They fixed my brakes quickly and the price was very fair. No upselling, just honest work.",
+      "name": "Michael R.",
+      "text": "Best auto shop in Burbank, hands down. They fixed my brakes for half what the dealer quoted and the work was flawless.",
       "rating": 5
     },
     {
       "name": "Sarah K.",
-      "text": "I've been coming here for three years and they never disappoint. They always explain what needs to be done and never push unnecessary repairs.",
+      "text": "Honest, fast, and affordable. Brought my car in for a weird noise and they diagnosed it within an hour. No upselling, just straight talk.",
       "rating": 5
     },
     {
       "name": "David L.",
-      "text": "Found this place through a neighbor's recommendation and I'm so glad I did. They diagnosed an issue two other shops missed. True professionals.",
+      "text": "I have been coming here for three years and never once felt like I was being taken advantage of. These guys are the real deal.",
       "rating": 5
     },
     {
-      "name": "Jennifer M.",
-      "text": "Transparent pricing, fast turnaround, and genuinely friendly staff. My whole family brings their cars here now.",
+      "name": "Jennifer T.",
+      "text": "My transmission was slipping and they had it fixed in two days. The price was fair and they kept me updated the entire time.",
       "rating": 5
     },
     {
-      "name": "Carlos R.",
-      "text": "They took care of my transmission problem at a fraction of what the dealer quoted. Quality work and they stand behind everything.",
-      "rating": 5
-    },
-    {
-      "name": "Angela W.",
-      "text": "First time visiting and I was blown away by the level of service. They showed me exactly what was wrong before doing any work. Will definitely be back.",
+      "name": "Carlos M.",
+      "text": "Found this shop on Google and so glad I did. Five stars across the board — quality work, friendly staff, fair prices.",
       "rating": 5
     }
   ],
-  "faq": [
-    {
-      "question": "Do I need an appointment for an oil change?",
-      "answer": "Walk-ins are welcome for oil changes, but scheduling ahead helps us serve you faster. Give us a call at (818) 848-8335 to reserve a time."
-    },
-    {
-      "question": "What payment methods do you accept?",
-      "answer": "We accept cash, all major credit cards (Visa, Mastercard, Amex, Discover), and debit cards. We also offer financing options for larger repairs."
-    },
-    {
-      "question": "Do you provide warranty on repairs?",
-      "answer": "Yes. All parts and labor come with a 12-month / 12,000-mile warranty. We stand behind every repair we perform."
-    },
-    {
-      "question": "How long does a brake job take?",
-      "answer": "Most standard brake pad and rotor replacements are completed within 1.5 to 2 hours. We'll give you an accurate time estimate before we begin."
-    },
-    {
-      "question": "Can you work on foreign and domestic vehicles?",
-      "answer": "Absolutely. Our technicians are experienced with all makes and models — Honda, Toyota, Ford, BMW, Mercedes, and everything in between."
-    }
-  ],
+  "gallery": {
+    "images": [
+      {
+        "src": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerE58yNcARgIHzzb4It5NLAnMBsKGr97WQyh08HF14vGnFx-PlrPyIzIBG_Ok1ru74LiQUnAmbGDEPFuciKrVucGE76cMnB915IbtESbUXvFgmRE8d7cXtQ3_NyBhk5Wfv3JeuKAw=w408-h306-k-no",
+        "alt": "A & R Auto Repair shop exterior"
+      }
+    ]
+  },
+  "hours": {
+    "Monday": "8:00 AM – 6:00 PM",
+    "Tuesday": "8:00 AM – 6:00 PM",
+    "Wednesday": "8:00 AM – 6:00 PM",
+    "Thursday": "8:00 AM – 6:00 PM",
+    "Friday": "8:00 AM – 6:00 PM",
+    "Saturday": "8:00 AM – 12:00 PM",
+    "Sunday": "Closed"
+  },
   "contact": {
     "phone": "(818) 848-8335",
-    "email": "info@aandrautorepair.com",
+    "email": "info@arautorepaireburbank.com",
     "address": "835 S Glenoaks Blvd, Burbank, CA 91502",
-    "hours": {
-      "Monday": "8:00 AM – 6:00 PM",
-      "Tuesday": "8:00 AM – 6:00 PM",
-      "Wednesday": "8:00 AM – 6:00 PM",
-      "Thursday": "8:00 AM – 6:00 PM",
-      "Friday": "8:00 AM – 6:00 PM",
-      "Saturday": "8:00 AM – 12:00 PM",
-      "Sunday": "Closed"
-    },
+    "hours": "Mon-Fri: 8AM-6PM, Sat: 8AM-12PM, Sun: Closed",
     "mapEmbedQuery": "A & R Auto Repair, 835 S Glenoaks Blvd, Burbank, CA 91502"
   },
   "seo": {
-    "title": "A & R Auto Repair | Trusted Auto Mechanic in Burbank, CA",
-    "description": "5-star rated auto repair shop in Burbank, CA. Specializing in brake repair, engine diagnostics, oil changes, and full vehicle maintenance. Call (818) 848-8335.",
+    "title": "A & R Auto Repair | Trusted Auto Shop in Burbank, CA",
+    "description": "A & R Auto Repair in Burbank provides expert brake repair, engine diagnostics, oil changes, and full-service auto maintenance. 5-star rated with 61+ reviews. Call (818) 848-8335.",
     "keywords": [
       "auto repair Burbank",
       "brake repair Burbank CA",
-      "mechanic Burbank",
+      "mechanic near me",
       "oil change Burbank",
-      "car repair near me",
-      "A and R Auto Repair"
+      "A & R Auto Repair",
+      "car repair Burbank"
     ]
   },
   "theme": {
-    "primaryColor": "#fafaf8",
-    "accentColor": "#7c3aed",
+    "primaryColor": "#0a0a0a",
+    "accentColor": "#c8a97e",
     "fontFamily": "modern"
   }
 }
