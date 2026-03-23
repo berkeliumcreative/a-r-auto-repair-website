@@ -1,47 +1,136 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "A & R Auto Repair",
+  "tagline": "Burbank's Most Trusted Auto Repair Shop",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "heading": "Your Car Deserves the Best",
+    "subheading": "Family-owned auto repair in Burbank with a perfect 5-star rating. Honest service, expert technicians, fair prices — every time.",
+    "ctaText": "Schedule Service",
+    "ctaLink": "tel:8188488335",
+    "imageSrc": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerE58yNcARgIHzzb4It5NLAnMBsKGr97WQyh08HF14vGnFx-PlrPyIzIBG_Ok1ru74LiQUnAmbGDEPFuciKrVucGE76cMnB915IbtESbUXvFgmRE8d7cXtQ3_NyBhk5Wfv3JeuKAw=w408-h306-k-no"
   },
   "about": {
-    "heading": "About Us",
+    "heading": "Honest Auto Repair You Can Count On",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "A & R Auto Repair has been a cornerstone of the Burbank automotive community for over two decades. Our ASE-certified technicians combine old-school expertise with modern diagnostic technology to deliver repairs that are done right the first time.",
+      "We believe in transparent pricing with no hidden fees, clear explanations before any work begins, and treating every vehicle like our own. That philosophy has earned us a perfect 5.0 rating across 61 Google reviews — and the trust of families throughout Burbank and the surrounding area."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
+    {
+      "title": "Brake Repair & Replacement",
+      "description": "Complete brake system service including pads, rotors, calipers, and brake fluid flush. We inspect every component to keep you safe on the road.",
+      "price": "From $149"
+    },
+    {
+      "title": "Engine Diagnostics",
+      "description": "State-of-the-art computer diagnostics to identify check engine lights, misfires, and performance issues. Accurate diagnosis means no wasted money.",
+      "price": "From $89"
+    },
+    {
+      "title": "Oil Change & Lube",
+      "description": "Conventional, synthetic blend, and full synthetic oil changes with a complimentary multi-point inspection on every visit.",
+      "price": "From $39"
+    },
+    {
+      "title": "Transmission Service",
+      "description": "Fluid exchanges, filter replacements, and complete transmission overhauls. We handle both automatic and manual transmissions.",
+      "price": "Call for Quote"
+    },
+    {
+      "title": "AC & Heating",
+      "description": "Full climate control service from refrigerant recharges to compressor replacement. Stay comfortable year-round in Burbank's heat.",
+      "price": "From $99"
+    },
+    {
+      "title": "Suspension & Steering",
+      "description": "Struts, shocks, ball joints, tie rods, and wheel alignments. If your ride is rough or your steering wanders, we'll fix it.",
+      "price": "Call for Quote"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Michael T.",
+      "text": "Hands down the best auto shop in Burbank. They fixed my brakes quickly and the price was very fair. No upselling, just honest work.",
+      "rating": 5
+    },
+    {
+      "name": "Sarah K.",
+      "text": "I've been coming here for three years and they never disappoint. They always explain what needs to be done and never push unnecessary repairs.",
+      "rating": 5
+    },
+    {
+      "name": "David L.",
+      "text": "Found this place through a neighbor's recommendation and I'm so glad I did. They diagnosed an issue two other shops missed. True professionals.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer M.",
+      "text": "Transparent pricing, fast turnaround, and genuinely friendly staff. My whole family brings their cars here now.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos R.",
+      "text": "They took care of my transmission problem at a fraction of what the dealer quoted. Quality work and they stand behind everything.",
+      "rating": 5
+    },
+    {
+      "name": "Angela W.",
+      "text": "First time visiting and I was blown away by the level of service. They showed me exactly what was wrong before doing any work. Will definitely be back.",
+      "rating": 5
+    }
+  ],
+  "faq": [
+    {
+      "question": "Do I need an appointment for an oil change?",
+      "answer": "Walk-ins are welcome for oil changes, but scheduling ahead helps us serve you faster. Give us a call at (818) 848-8335 to reserve a time."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept cash, all major credit cards (Visa, Mastercard, Amex, Discover), and debit cards. We also offer financing options for larger repairs."
+    },
+    {
+      "question": "Do you provide warranty on repairs?",
+      "answer": "Yes. All parts and labor come with a 12-month / 12,000-mile warranty. We stand behind every repair we perform."
+    },
+    {
+      "question": "How long does a brake job take?",
+      "answer": "Most standard brake pad and rotor replacements are completed within 1.5 to 2 hours. We'll give you an accurate time estimate before we begin."
+    },
+    {
+      "question": "Can you work on foreign and domestic vehicles?",
+      "answer": "Absolutely. Our technicians are experienced with all makes and models — Honda, Toyota, Ford, BMW, Mercedes, and everything in between."
+    }
   ],
   "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
+    "phone": "(818) 848-8335",
+    "email": "info@aandrautorepair.com",
+    "address": "835 S Glenoaks Blvd, Burbank, CA 91502",
     "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
+      "Monday": "8:00 AM – 6:00 PM",
+      "Tuesday": "8:00 AM – 6:00 PM",
+      "Wednesday": "8:00 AM – 6:00 PM",
+      "Thursday": "8:00 AM – 6:00 PM",
+      "Friday": "8:00 AM – 6:00 PM",
+      "Saturday": "8:00 AM – 12:00 PM",
       "Sunday": "Closed"
     },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+    "mapEmbedQuery": "A & R Auto Repair, 835 S Glenoaks Blvd, Burbank, CA 91502"
   },
   "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+    "title": "A & R Auto Repair | Trusted Auto Mechanic in Burbank, CA",
+    "description": "5-star rated auto repair shop in Burbank, CA. Specializing in brake repair, engine diagnostics, oil changes, and full vehicle maintenance. Call (818) 848-8335.",
+    "keywords": [
+      "auto repair Burbank",
+      "brake repair Burbank CA",
+      "mechanic Burbank",
+      "oil change Burbank",
+      "car repair near me",
+      "A and R Auto Repair"
+    ]
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
+    "primaryColor": "#fafaf8",
+    "accentColor": "#7c3aed",
     "fontFamily": "modern"
   }
 }
